@@ -1,2 +1,2 @@
 # gradeCalc
-a grade calculator
+a grade calculator written in c#
